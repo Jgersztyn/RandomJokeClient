@@ -21,6 +21,10 @@ The software does not need to be installed. A few simple steps are needed to run
 	* Simply run the application as specified.
 	* You will be delivered a wonderful joke, ensuring that you have a chuckle.
 	* No coding or scripting required!
+	
+## Additional Resources
+
+* [RandomJokeApi](https://github.com/Jgersztyn/RandomJokeApi)
 
 ## Licence
 
